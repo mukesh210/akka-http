@@ -1,0 +1,9 @@
+{
+  "creditCard": {
+    "serialNumber": "3344-4545-2342-6767",
+    "securityCode": "123",
+    "account": "rx-46-df-23"
+  },
+  "receiverAccount": "td-23-tg-21",
+  "amount": 99
+}
